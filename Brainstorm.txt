@@ -1,0 +1,5 @@
+db_de <= user_de < db_a
+db_de <= user_a < db_a
+
+user_de <= db_de < user_a
+user_de <= db_a < user_a
